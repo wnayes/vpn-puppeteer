@@ -1,0 +1,16 @@
+{
+  "name": "vpn-puppeteer",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Cisco + Microsoft Online VPN Puppeteer script",
+  "main": "index.mjs",
+  "scripts": {},
+  "keywords": [
+    "vpn"
+  ],
+  "author": "Will Nayes",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.10.1"
+  }
+}
